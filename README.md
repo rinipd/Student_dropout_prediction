@@ -139,13 +139,3 @@ The system uses a normalized relational database with the following key tables:
 - Integrate additional APIs for more diverse recommendations.
 
 ---
-
-## Contributors
-- **Your Name** - Developer
-- **Team Member 1** - Contributor
-- **Team Member 2** - Contributor
-
----
-
-## License
-This project is licensed under the MIT License.
